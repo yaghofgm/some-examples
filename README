@@ -1,4 +1,7 @@
-to add stuff to git.
+make your account on git, setup your git environment, with the username and useremail
+clone the repo you want with git clone <https:>
+
+to add stuff to git repo
 On git, make a new repo after you have your account all setup 
 get the internet adddress of it https://...
 git init

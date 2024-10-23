@@ -1,0 +1,10 @@
+to add stuff to git.
+On git, make a new repo after you have your account all setup 
+get the internet adddress of it https://...
+git init
+git add .
+git commit -m "banana"
+git remote add origin <https>
+git push -u origin master //or origin main 
+
+//next time you push, no need for the flag.
